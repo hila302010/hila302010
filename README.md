@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### About Me
-I'm Hila Ben Michael, a computer science Student, passionate to learn and explore the world of Electrical and computer science.
+I'm Hila Ben Michael, a computer science Student, passionate to learn and explore the world of software development and computer science.
 
 In addition, I have a strong foundation in mathematics and the theory of Computer Science. 
 
