@@ -34,6 +34,11 @@ In addition, I have a strong foundation in mathematics and the theory of Compute
 [![Leetcode Stats](https://leetcard.jacoblin.cool/eden_leyba)](https://leetcode.com/eden_leyba)
 [![Leetcode Stats](https://leetcode.com/u/omergrau)]
 -->
+## 📈 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hila302010&show_icons=true&theme=default)
+
+### Links
+[![Leetcode Stats](https://leetcard.jacoblin.cool/benmhila)](https://leetcode.com/benmhila)
 
 
 ### Contact Me 📫
